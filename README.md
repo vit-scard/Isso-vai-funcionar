@@ -1,4 +1,4 @@
 # Isso-vai-funcionar
-Repositório para projeto do curso.dev
+It is a repository to learn about js in curso.dev
 
-test
+
